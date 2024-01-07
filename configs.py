@@ -7,7 +7,7 @@ class Config(object):
   LUFFY_PIC = os.environ.get("LUFFY_PIC", "https://graph.org/file/1c15be412eb886ba1c8e3.jpg")
   BOT_USERNAME = os.environ.get("BOT_USERNAME", "filestore_new_bot")
   DB_CHANNEL = int(os.environ.get("DB_CHANNEL", "-1002032530936"))
-  SHORTLINK_URL = os.environ.get('SHORTLINK_URL', "tnshort.net/api?")
+  SHORTLINK_URL = os.environ.get('SHORTLINK_URL', "https://tnshort.net/api?")
   SHORTLINK_API = os.environ.get('SHORTLINK_API', "eadd283ee4fb83c41e43cb36b73bf5f658c29645")
   BOT_OWNER = int(os.environ.get("BOT_OWNER", "5431249569"))
   DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://test123:test123@cluster0.ypzcfxf.mongodb.net/?retryWrites=true&w=majority")
@@ -32,7 +32,7 @@ class Config(object):
 ᴛᴀʟᴋ ᴡɪᴛʜ ᴍᴇ : <a href=https://t.me/thomas_shelby_0_7>Cʟɪᴄᴋ Hᴇʀᴇ</a>
 ᴠɪsɪᴛ ᴍʏ ɢɪᴛʜᴜʙ : <a href=https://github.com/Thomasshelby333>Thomas's Gɪᴛʜᴜʙ</a>
 ᴍʏ Cʜᴀɴɴᴇʟ ғᴏʀ ʏᴏᴜ : <a href=https://t.me/tamil_rockerZ_1>ᴛᴀᴍɪʟʀᴏᴄᴋᴇʀᴢ</a>
-ᴍʏ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ ғᴏʀ ʏᴏᴜ : <a href=https://t.me/+xNG8OZGJbMA0MDg1>𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝙂𝙧𝙤𝙪𝙥</a>
+ᴍʏ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ ғᴏʀ ʏᴏᴜ : <a href=https://t.me/+2VrRus8vN30wYzRl>𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝙂𝙧𝙤𝙪𝙥</a>
 </b>
 """
   HOME_TEXT = """<b>
