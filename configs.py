@@ -6,7 +6,7 @@ class Config(object):
   BOT_TOKEN = os.environ.get("BOT_TOKEN", "6814859843:AAG55nbGmyxrLyxB9BVCwW_UaXXpd8r_JDI")
   LUFFY_PIC = os.environ.get("LUFFY_PIC", "https://graph.org/file/1c15be412eb886ba1c8e3.jpg")
   BOT_USERNAME = os.environ.get("BOT_USERNAME", "filestore_new_bot")
-  DB_CHANNEL = int(os.environ.get("DB_CHANNEL", "-1002016822623"))
+  DB_CHANNEL = int(os.environ.get("DB_CHANNEL", "-1002032530936"))
   SHORTLINK_URL = os.environ.get('SHORTLINK_URL', "api.tnshort.net")
   SHORTLINK_API = os.environ.get('SHORTLINK_API', "eadd283ee4fb83c41e43cb36b73bf5f658c29645")
   BOT_OWNER = int(os.environ.get("BOT_OWNER", "5431249569"))
